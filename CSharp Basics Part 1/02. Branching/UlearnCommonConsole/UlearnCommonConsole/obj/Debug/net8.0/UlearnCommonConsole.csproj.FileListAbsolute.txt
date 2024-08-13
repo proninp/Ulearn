@@ -1,0 +1,15 @@
+C:\Users\Paul\source\repos\Git\Edu\Ulearn\Branching\UlearnCommonConsole\UlearnCommonConsole\bin\Debug\net8.0\UlearnCommonConsole.exe
+C:\Users\Paul\source\repos\Git\Edu\Ulearn\Branching\UlearnCommonConsole\UlearnCommonConsole\bin\Debug\net8.0\UlearnCommonConsole.deps.json
+C:\Users\Paul\source\repos\Git\Edu\Ulearn\Branching\UlearnCommonConsole\UlearnCommonConsole\bin\Debug\net8.0\UlearnCommonConsole.runtimeconfig.json
+C:\Users\Paul\source\repos\Git\Edu\Ulearn\Branching\UlearnCommonConsole\UlearnCommonConsole\bin\Debug\net8.0\UlearnCommonConsole.dll
+C:\Users\Paul\source\repos\Git\Edu\Ulearn\Branching\UlearnCommonConsole\UlearnCommonConsole\bin\Debug\net8.0\UlearnCommonConsole.pdb
+C:\Users\Paul\source\repos\Git\Edu\Ulearn\Branching\UlearnCommonConsole\UlearnCommonConsole\obj\Debug\net8.0\UlearnCommonConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul\source\repos\Git\Edu\Ulearn\Branching\UlearnCommonConsole\UlearnCommonConsole\obj\Debug\net8.0\UlearnCommonConsole.AssemblyInfoInputs.cache
+C:\Users\Paul\source\repos\Git\Edu\Ulearn\Branching\UlearnCommonConsole\UlearnCommonConsole\obj\Debug\net8.0\UlearnCommonConsole.AssemblyInfo.cs
+C:\Users\Paul\source\repos\Git\Edu\Ulearn\Branching\UlearnCommonConsole\UlearnCommonConsole\obj\Debug\net8.0\UlearnCommonConsole.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\Git\Edu\Ulearn\Branching\UlearnCommonConsole\UlearnCommonConsole\obj\Debug\net8.0\UlearnCommonConsole.sourcelink.json
+C:\Users\Paul\source\repos\Git\Edu\Ulearn\Branching\UlearnCommonConsole\UlearnCommonConsole\obj\Debug\net8.0\UlearnCommonConsole.dll
+C:\Users\Paul\source\repos\Git\Edu\Ulearn\Branching\UlearnCommonConsole\UlearnCommonConsole\obj\Debug\net8.0\refint\UlearnCommonConsole.dll
+C:\Users\Paul\source\repos\Git\Edu\Ulearn\Branching\UlearnCommonConsole\UlearnCommonConsole\obj\Debug\net8.0\UlearnCommonConsole.pdb
+C:\Users\Paul\source\repos\Git\Edu\Ulearn\Branching\UlearnCommonConsole\UlearnCommonConsole\obj\Debug\net8.0\UlearnCommonConsole.genruntimeconfig.cache
+C:\Users\Paul\source\repos\Git\Edu\Ulearn\Branching\UlearnCommonConsole\UlearnCommonConsole\obj\Debug\net8.0\ref\UlearnCommonConsole.dll
