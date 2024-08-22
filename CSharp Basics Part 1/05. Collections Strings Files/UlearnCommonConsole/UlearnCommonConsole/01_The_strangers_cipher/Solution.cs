@@ -1,4 +1,4 @@
-﻿namespace UlearnCommonConsole.The_strangers_cipher
+﻿namespace UlearnCommonConsole._01_The_strangers_cipher
 {
     public class Solution
     {

@@ -1,4 +1,4 @@
-﻿namespace UlearnCommonConsole.Useful_acquaintances
+﻿namespace UlearnCommonConsole._02_Useful_acquaintances
 {
     public class Solution
     {

@@ -1,4 +1,4 @@
-﻿namespace UlearnCommonConsole.Benfords_Law
+﻿namespace UlearnCommonConsole._03_Benfords_Law
 {
     public class Solution
     {

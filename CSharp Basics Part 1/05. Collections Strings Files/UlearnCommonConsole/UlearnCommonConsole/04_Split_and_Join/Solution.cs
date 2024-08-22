@@ -1,4 +1,4 @@
-﻿namespace UlearnCommonConsole.Split_and_Join
+﻿namespace UlearnCommonConsole._04_Split_and_Join
 {
     public class Solution
     {
