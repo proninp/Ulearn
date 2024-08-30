@@ -10,10 +10,10 @@ static class TextGeneratorTask
         var wordsList = phraseBeginning.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries).ToList();
         while (wordsCount-- > 0)
         {
-            string key = wordsList[wordsList.Count - 1];
+            string key = wordsList[^1];
             if (wordsList.Count > 1)
             {
-                var tKey = $"{wordsList[^2]} {wordsList[^1]}";
+                var tKey = $"{wordsList[^2]} {key}";
                 if (nextWords.ContainsKey(tKey))
                     key = tKey;
             }
