@@ -1,9 +1,5 @@
 ﻿using NUnit.Framework;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace TableParser;
 public class TestingPracticeTests
@@ -31,11 +27,6 @@ public class TestingPracticeTests
     [TestCase(" \"a\" ", new[] { "a" })]
     public static void RunTests(string input, string[] expectedOutput)
     {
-        Test(input, expectedOutput);
-    }
-
-    private static void Test(string input, string[] expectedOutput)
-    {
-        throw new NotImplementedException();
+        FieldParserTaskTests.Test(input, expectedOutput);
     }
 }
